@@ -8,7 +8,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=60&duration=4000&color=FF3BA2&center=true&vCenter=true&multiline=true&width=2000&height=400&lines=My+name+is+Darsen;I+am+a+Frontend+JavaScript%2FTypeScript+developer)](https://github.com/tsdev88)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=60&duration=4000&color=FF3BA2&center=true&vCenter=true&multiline=true&width=2000&height=400&lines=My+name+is+Tsering;I+am+a+Frontend+JavaScript%2FTypeScript+developer)](https://github.com/tsdev88)
 
 </div>
 
