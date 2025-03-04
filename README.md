@@ -34,29 +34,36 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)](https://wikipedia.org/wiki/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)](https://react.dev/)
-[![NextJs](https://img.shields.io/badge/next-20232A?style=for-the-badge&logo=next.js)](https://nextjs.org/)
+
+[//]: # ([![NextJs]&#40;https://img.shields.io/badge/next-20232A?style=for-the-badge&logo=next.js&#41;]&#40;https://nextjs.org/&#41;)
 [![Redux](https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=7749BD)](https://redux.js.org/)
-[![Mobx](https://img.shields.io/badge/mobx-20232A?style=for-the-badge&logo=mobx)](https://mobx.js.org/)
+
+[//]: # ([![Mobx]&#40;https://img.shields.io/badge/mobx-20232A?style=for-the-badge&logo=mobx&#41;]&#40;https://mobx.js.org/&#41;)
 [![ReactQuery](https://img.shields.io/badge/ReactQuery-20232A?style=for-the-badge&logo=reactquery)](https://tanstack.com/query/latest)
 [![ReactRouter](https://img.shields.io/badge/React_Router-20232A?style=for-the-badge&logo=react-router)](https://reactrouter.com/)
 [![Jest](https://img.shields.io/badge/Jest-20232A?style=for-the-badge&logo=jest&logoColor=red)](https://jestjs.io/)
 [![Html](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5)](https://html.spec.whatwg.org/multipage/)
 [![Css](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=369AD6)](https://www.w3.org/TR/CSS/)
 [![Scss](https://img.shields.io/badge/scss-20232A?style=for-the-badge&logo=sass)](https://sass-lang.com/)
-[![Storybook](https://img.shields.io/badge/storybook-20232A?style=for-the-badge&logo=storybook)](https://storybook.js.org/)
+
+[//]: # ([![Storybook]&#40;https://img.shields.io/badge/storybook-20232A?style=for-the-badge&logo=storybook&#41;]&#40;https://storybook.js.org/&#41;)
 [![StyledComponents](https://img.shields.io/badge/StyledComponents-20232A?style=for-the-badge&logo=StyledComponents)](https://styled-components.com/)
-[![PostCss](https://img.shields.io/badge/postcss-20232A?style=for-the-badge&logo=postcss&logoColor=DD3A0A)](https://postcss.org/)
+
+[//]: # ([![PostCss]&#40;https://img.shields.io/badge/postcss-20232A?style=for-the-badge&logo=postcss&logoColor=DD3A0A&#41;]&#40;https://postcss.org/&#41;)
 [![Figma](https://img.shields.io/badge/figma-20232A?style=for-the-badge&logo=figma)](https://www.figma.com/)
 [![Node](https://img.shields.io/badge/node-20232A?style=for-the-badge&logo=node.js)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/express-20232A?style=for-the-badge&logo=express)](https://expressjs.com/)
-[![GraphQL](https://img.shields.io/badge/graphql-20232A?style=for-the-badge&logo=GraphQL&logoColor=e535ab)](https://graphql.org/)
-[![NestJs](https://img.shields.io/badge/nest-20232A?style=for-the-badge&logo=nestjs&logoColor=E0234D)](https://nestjs.com/)
+
+[//]: # ([![GraphQL]&#40;https://img.shields.io/badge/graphql-20232A?style=for-the-badge&logo=GraphQL&logoColor=e535ab&#41;]&#40;https://graphql.org/&#41;)
+
+[//]: # ([![NestJs]&#40;https://img.shields.io/badge/nest-20232A?style=for-the-badge&logo=nestjs&logoColor=E0234D&#41;]&#40;https://nestjs.com/&#41;)
 [![Socket.io](https://img.shields.io/badge/socket.io-20232A?style=for-the-badge&logo=socket.io)](https://socket.io/)
 [![Docker](https://img.shields.io/badge/docker-20232A?style=for-the-badge&logo=docker)](https://www.docker.com/)
 [![Babel](https://img.shields.io/badge/babel-20232A?style=for-the-badge&logo=babel)](https://babeljs.io/)
 [![Webpack](https://img.shields.io/badge/webpack-20232A?style=for-the-badge&logo=webpack)](https://webpack.js.org/)
 [![Vite](https://img.shields.io/badge/vite-20232A?style=for-the-badge&logo=vite)](https://vitejs.dev/)
-[![Electron](https://img.shields.io/badge/electron-20232A?style=for-the-badge&logo=electron&logoColor=A0EBF9)](https://www.electronjs.org/)
+
+[//]: # ([![Electron]&#40;https://img.shields.io/badge/electron-20232A?style=for-the-badge&logo=electron&logoColor=A0EBF9&#41;]&#40;https://www.electronjs.org/&#41;)
 [![Jwt](https://img.shields.io/badge/JWT-20232A?style=for-the-badge&logo=jsonwebtokens)](https://jwt.io/)
 [![Vercel](https://img.shields.io/badge/vercel-20232A?style=for-the-badge&logo=vercel)](https://vercel.com/)
 [![PostgreSQL](https://img.shields.io/badge/postgresql-20232A?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
@@ -70,8 +77,9 @@
 [![Github](https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github)](https://github.com/)
 [![Npm](https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm)](https://www.npmjs.com/)
 [![Yarn](https://img.shields.io/badge/yarn-20232A?style=for-the-badge&logo=yarn)](https://yarnpkg.com/)
-[![Jira](https://img.shields.io/badge/jira-20232A?style=for-the-badge&logo=jira&logoColor=blue)](https://www.atlassian.com/software/jira)
-[![Swagger](https://img.shields.io/badge/swagger-20232A?style=for-the-badge&logo=swagger)](https://swagger.io/)
+
+[//]: # ([![Jira]&#40;https://img.shields.io/badge/jira-20232A?style=for-the-badge&logo=jira&logoColor=blue&#41;]&#40;https://www.atlassian.com/software/jira&#41;)
+[//]: # ([![Swagger]&#40;https://img.shields.io/badge/swagger-20232A?style=for-the-badge&logo=swagger&#41;]&#40;https://swagger.io/&#41;)
 
 
 </div>
