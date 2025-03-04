@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![tsdev88's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tsdev88&hide_border=true&theme=redical)](https://github.com/d4rsen)
+[![tsdev88's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tsdev88&hide_border=true&theme=redical)](https://github.com/tsdev88)
 
 <hr>
 
@@ -47,7 +47,6 @@
 [![Express](https://img.shields.io/badge/express-20232A?style=for-the-badge&logo=express)](https://expressjs.com/)
 [![Socket.io](https://img.shields.io/badge/socket.io-20232A?style=for-the-badge&logo=socket.io)](https://socket.io/)
 [![Docker](https://img.shields.io/badge/docker-20232A?style=for-the-badge&logo=docker)](https://www.docker.com/)
-[![Babel](https://img.shields.io/badge/babel-20232A?style=for-the-badge&logo=babel)](https://babeljs.io/)
 [![Webpack](https://img.shields.io/badge/webpack-20232A?style=for-the-badge&logo=webpack)](https://webpack.js.org/)
 [![Vite](https://img.shields.io/badge/vite-20232A?style=for-the-badge&logo=vite)](https://vitejs.dev/)
 [![Jwt](https://img.shields.io/badge/JWT-20232A?style=for-the-badge&logo=jsonwebtokens)](https://jwt.io/)
@@ -64,6 +63,7 @@
 [![Npm](https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm)](https://www.npmjs.com/)
 [![Yarn](https://img.shields.io/badge/yarn-20232A?style=for-the-badge&logo=yarn)](https://yarnpkg.com/)
 
+[//]: # ([![Babel]&#40;https://img.shields.io/badge/babel-20232A?style=for-the-badge&logo=babel&#41;]&#40;https://babeljs.io/&#41;)
 [//]: # ([![Electron]&#40;https://img.shields.io/badge/electron-20232A?style=for-the-badge&logo=electron&logoColor=A0EBF9&#41;]&#40;https://www.electronjs.org/&#41;)
 [//]: # ([![NestJs]&#40;https://img.shields.io/badge/nest-20232A?style=for-the-badge&logo=nestjs&logoColor=E0234D&#41;]&#40;https://nestjs.com/&#41;)
 [//]: # ([![GraphQL]&#40;https://img.shields.io/badge/graphql-20232A?style=for-the-badge&logo=GraphQL&logoColor=e535ab&#41;]&#40;https://graphql.org/&#41;)
